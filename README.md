@@ -1,6 +1,13 @@
-# NYC Citi Bike data analysis using Tableau
+# NYC Citi Bike data analysis
 
-- The analysis was done for the month of August 2019.
+## Project Overview
+In this project, NYC Citi Bike data analysis was done for the month of August 2019.
+
+## Software
+
+Tableau
+
+## Summary 
 
 - Manhattan is the most populated borough in New York City as per the maps referring to the top starting and ending locations.
 
