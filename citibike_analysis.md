@@ -99,7 +99,7 @@ https://public.tableau.com/profile/archana.rohilla#!/vizhome/bikesharing_1587333
 
 - GO GREEN
 
-## Why to Invest in bike sharing comany?
+## Why to Invest in bike sharing company?
 
 - After shared three- and four-wheelers, shared two-wheelers are becoming the new craze. And guess what is crazier than this? Investors are falling in love with this transportation technique so much that they are ready to invest in it. Why? After all, what’s so special about bike-sharing programs? Why are they such a thing today?
 

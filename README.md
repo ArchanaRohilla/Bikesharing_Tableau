@@ -2,7 +2,7 @@
 
 - The analysis was done for the month of August 2019.
 
-- The Manhattan is the most populated borough in the New York City as per the maps referring to the top starting and ending locations.
+- Manhattan is the most populated borough in New York City as per the maps referring to the top starting and ending locations.
 
 - The number of records was 2,344,224.
 
