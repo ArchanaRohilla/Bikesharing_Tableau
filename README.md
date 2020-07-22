@@ -11,7 +11,7 @@ Tableau
 
 - Manhattan is the most populated borough in New York City as per the maps referring to the top starting and ending locations.
 
-![alt text](Bikesharing_Tableau/blob/master/images/top_starting.png)
+![alt text](images/top_starting.png)
 
 - The number of records was 2,344,224.
 
