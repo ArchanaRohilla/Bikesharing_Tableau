@@ -13,6 +13,10 @@ Tableau
 
 ![alt text](images/top_starting.png)
 
+
+![alt text](images/top_ending.png)
+
+
 - The number of records was 2,344,224.
 
 - The bike sharing system analysis of New York City was done to find out how this system will work in Des Moines, Iowa.
