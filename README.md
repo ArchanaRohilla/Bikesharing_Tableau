@@ -39,6 +39,10 @@ bikesharing.twb
 
 
 
+![alt text](images/dash2.png)
+
+
+
 - The bike sharing system analysis of New York City was done to find out how this system will work in Des Moines, Iowa.
 
 - A Tableau story is created using all the relevant data and information of New York City and Des Moines to find out what, why and how a bike sharing program will perform in Des  Moines city.
