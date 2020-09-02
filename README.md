@@ -8,7 +8,7 @@ starting a bike sharing company in Des Moines.
 Tableau
 
 ## Tableau Workbook
-bikesharing
+bikesharing.twb
 
 ## Data Source
 201908-citibike-tripdata.csv
@@ -43,6 +43,6 @@ bikesharing
 
 - A Tableau story is created using all the relevant data and information of New York City and Des Moines to find out what, why and how a bike sharing program will perform in Des  Moines city.
 
-- The link of the analysis to Tableau Public is: 
+- The link of the Tableau story to Tableau Public is: 
 
 https://public.tableau.com/profile/archana.rohilla#!/vizhome/bikesharing_15873336607410/BikeSharingCompany-ABoom?publish=yes
