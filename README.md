@@ -35,7 +35,7 @@ bikesharing
 - The Tableau Dashboard showing all the relevant details is:
 
 
-![alt text](images/dashboard1.png)
+![alt text](images/dash1.png)
 
 
 
