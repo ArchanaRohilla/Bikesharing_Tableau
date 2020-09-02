@@ -32,7 +32,7 @@ bikesharing.twb
 
 
 
-- The Tableau Dashboard showing all the relevant details is:
+- The Tableau Dashboards showing all the relevant details are:
 
 
 ![alt text](images/dash1.png)
