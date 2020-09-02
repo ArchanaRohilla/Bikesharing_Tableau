@@ -10,6 +10,9 @@ Tableau
 ## Tableau Workbook
 bikesharing
 
+## Data Source
+201908-citibike-tripdata.csv
+
 ## Summary 
 
 - Manhattan is the most populated borough in New York City as per the maps referring to the top starting and ending locations.
@@ -29,7 +32,7 @@ bikesharing
 
 
 
-- The dashboard showing all the relevant details is:
+- The Tableau Dashboard showing all the relevant details is:
 
 
 ![alt text](images/dashboard1.png)
