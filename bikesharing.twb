@@ -847,8 +847,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1350' minheight='1350' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='34' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='33' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='36' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='35' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='44625' id='12' is-fixed='true' name='Bike Utilization' w='51900' x='1300' y='5625'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -943,8 +943,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='508' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='507' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='510' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='509' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='43000' id='29' is-centered='0' is-fixed='true' is-scaled='1' param='C:/Users/rohil/Desktop/projects/bikesharing/images/zoo1.jpg' type='bitmap' w='28700' x='34300' y='7875'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1029,8 +1029,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1250' minheight='1250' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='568' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97916' id='567' param='vert' type='layout-flow' w='98828' x='586' y='1042'>
+            <zone h='100000' id='570' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97916' id='569' param='vert' type='layout-flow' w='98828' x='586' y='1042'>
                 <zone forceUpdate='true' h='4818' id='7' type='text' w='31259' x='1245' y='781'>
                   <formatted-text>
                     <run bold='true' fontcolor='#0616f8' fontname='Arial' fontsize='24'>NYC Citi Bike</run>
@@ -1137,8 +1137,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='156' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='155' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='158' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='157' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='28250' id='3' type='text' w='87100' x='5700' y='4125'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Arial' fontsize='24'>Why to Invest???</run>
@@ -1220,8 +1220,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='494' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='493' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='496' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='495' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='39125' id='3' type='text' w='92800' x='2900' y='4500'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Bebas Neue W01 Regular,Arial Narrow,sans-serif' fontsize='26'>DES MOINES</run>
@@ -1306,8 +1306,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='432' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='431' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='434' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='433' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='16750' id='3' type='text' w='60000' x='19300' y='4375'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Arial' fontsize='26'>Des Moines city, Iowa </run>
@@ -1401,8 +1401,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='418' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='417' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='420' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='419' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='19125' id='3' type='text' w='64100' x='16800' y='2625'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Arial' fontsize='26'>Des Moines city, Iowa </run>
@@ -1485,8 +1485,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='340' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='339' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='342' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='341' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='10125' id='3' type='text' w='48100' x='25800' y='16000'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Arial' fontsize='28'>Let&apos;s Get Started!!!</run>
@@ -1549,8 +1549,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='299' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='298' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='301' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='300' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='9250' id='3' type='text' w='67500' x='14700' y='2000'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Arial' fontsize='26'>Des Moines versus New York </run>
@@ -1623,8 +1623,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='212' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='211' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='214' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='213' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='191' h='23875' id='12' is-centered='0' is-fixed='true' is-scaled='1' param='C:/Users/rohil/Desktop/projects/bikesharing/images/car_pollution.jpg' type='bitmap' w='57100' x='19000' y='7125'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1696,8 +1696,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='208' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='207' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='210' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='209' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='40125' id='16' is-centered='0' is-fixed='true' is-scaled='1' param='C:/Users/rohil/Desktop/projects/bikesharing/images/bike_share2.jpg' type='bitmap' w='48100' x='23100' y='4625'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1785,8 +1785,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='507' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='506' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='509' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='508' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='12250' id='57' type='text' w='51200' x='23500' y='5750'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Arial' fontsize='26'>New York City - Citi Bike</run>
@@ -1862,8 +1862,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='177' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='176' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='179' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='178' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='19875' id='3' type='text' w='84800' x='7500' y='12375'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#ff5500' fontname='Arial' fontsize='18'>Bike sharing is a concept originating back to the 1960s. However, it was slow to catch on until better technology was developed, which could provide real-time information about the scheme, track the bikes and help safeguard against theft.</run>
@@ -1925,8 +1925,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='444' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='443' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='446' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='445' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='14500' id='4' type='text' w='94400' x='2500' y='5000'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Arial' fontsize='24'>People prefer to go out in evening hours during summer.</run>
@@ -1987,8 +1987,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='458' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='457' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='460' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='459' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='12375' id='3' type='text' w='87800' x='3800' y='23250'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Arial' fontsize='28'>What If - </run>
@@ -2110,8 +2110,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='370' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='369' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='372' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='371' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='10375' id='3' type='text' w='58500' x='18800' y='2875'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0616f8' fontname='Arial' fontsize='28'>Why Bike sharing system?</run>
@@ -2495,7 +2495,7 @@
       </cards>
       <simple-id uuid='{A4DF7997-9988-4052-A020-724B123AEC07}' />
     </window>
-    <window class='dashboard' name='NYC Citi Bike'>
+    <window class='dashboard' maximized='true' name='NYC Citi Bike'>
       <viewpoints>
         <viewpoint name='Average Trip Duration'>
           <zoom type='entire-view' />
@@ -2592,7 +2592,7 @@
       <active id='-1' />
       <simple-id uuid='{8207364A-B108-4B8F-95C0-A2D5BB034AF2}' />
     </window>
-    <window class='dashboard' maximized='true' name='Customer Bike Utilization'>
+    <window class='dashboard' name='Customer Bike Utilization'>
       <viewpoints>
         <viewpoint name='Bike Repairs' />
         <viewpoint name='Bike Utilization' />
